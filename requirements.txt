@@ -1,3 +1,7 @@
+hikari==2.0.0.dev120
+hikari-lightbulb==2.3.2
+aiohttp==3.9.3
+apscheduler==3.10.4
 py-cord==2.6.1
 aiohttp==3.9.3
 apscheduler==3.10.4
